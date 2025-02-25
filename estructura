@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>WIKIMOTO</h1>
+    <h2>El primer sitio dedicado exclusivamente a Moteros</h2>
+    <p>
+      En este sitio encontrarás consejos, hacks y cosas a tener en cuenta al
+      momento de comprar una moto
+      
+<h3>Puntos a tener en cuenta</h3>
+      <ol>
+        <li>Altura</li>
+        <li>Peso</li>
+        <li>Estilo de moto que me gusta</li>
+      </ol>
+    </p>
+  </body>
+</html>

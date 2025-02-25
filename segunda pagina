@@ -1,0 +1,22 @@
+!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>YAMAHA</h1>
+    <h2>Descripción de la marca</h2>
+    <p>
+    
+      
+<h3>Puntos a favor de la marca</h3>
+      <ol>
+        <li>Precio</li>
+        <li>Garantía</li>
+        <li>Vida Útil</li>
+      </ol>
+    </p>
+  </body>
+</html>
